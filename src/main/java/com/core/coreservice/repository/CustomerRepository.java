@@ -1,5 +1,6 @@
-package com.core.coreservice;
+package com.core.coreservice.repository;
 
+import com.core.coreservice.entity.Customer;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

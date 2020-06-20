@@ -1,4 +1,4 @@
-package com.core.coreservice;
+package com.core.coreservice.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

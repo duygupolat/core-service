@@ -1,4 +1,4 @@
-package com.core.coreservice;
+package com.core.coreservice.entity;
 
 import java.io.Serializable;
 
